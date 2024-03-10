@@ -4,6 +4,8 @@
 
 This repository contains scripts show your weekly class schedules using Scriptable, an iOS app that allows you to automate tasks on your iPhone or iPad.
 
+<img src="https://github.com/Galile-Vincent/ClassSchedule/assets/110913833/9c5e24e1-3fad-4ec0-b026-0bcaffb1ccc3" alt="Your Image Alt Text" width="200" height="200">
+
 ## How to Use
 
 ### Step 1: Download Scriptable
