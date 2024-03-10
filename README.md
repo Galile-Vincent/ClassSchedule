@@ -16,7 +16,7 @@ To get started, you'll need to download Scriptable from the [App Store](https://
 
 Once you have Scriptable installed, follow these steps to import the scripts:
 
-1. Clone or download this repository to your device.
+1. Copy the text inside the [`Weekly.js`](https://github.com/Galile-Vincent/ClassSchedule/blob/main/Weekly.js) or download this repository to your device.
 2. Open Scriptable.
 3. Tap on the "+" icon in the top right corner.
 4. Select "Import File" and choose the `.js` files from the repository.
