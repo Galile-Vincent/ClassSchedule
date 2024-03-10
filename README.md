@@ -27,6 +27,10 @@ After importing the scripts, you can set up your class schedule:
 2. Update the schedule information according to your classes and timings.
 3. Save the changes.
 
+## Notice
+This weekly class schedule widget is only compatible with the large square widget.
+
+
 ## Note
 
 - Feel free to customize the scripts according to your preferences or additional functionalities you may need.
