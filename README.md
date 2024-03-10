@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains scripts to generate and manage your weekly and daily class schedules using Scriptable, an iOS app that allows you to automate tasks on your iPhone or iPad.
+This repository contains scripts show your weekly class schedules using Scriptable, an iOS app that allows you to automate tasks on your iPhone or iPad.
 
 ## How to Use
 
@@ -26,23 +26,6 @@ After importing the scripts, you can set up your class schedule:
 1. Open or paste the [`Weekly.js`](https://github.com/Galile-Vincent/ClassSchedule/blob/main/Weekly.js) in Scriptable.
 2. Update the schedule information according to your classes and timings.
 3. Save the changes.
-
-### Step 4: View Class Schedule
-
-You can view your class schedule in two ways:
-
-#### Weekly Schedule
-
-- Open Scriptable.
-- Run the `weekly_schedule.js` script.
-- Your weekly class schedule will be displayed.
-
-#### Daily Schedule
-
-- Open Scriptable.
-- Run the `daily_schedule.js` script.
-- You will be prompted to select a day.
-- Your class schedule for the selected day will be displayed.
 
 ## Note
 
