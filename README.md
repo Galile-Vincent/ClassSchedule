@@ -29,5 +29,4 @@ After importing the scripts, you can set up your class schedule:
 
 ## Note
 
-- Make sure to update the schedule in the scripts whenever there are changes to your classes or timings.
 - Feel free to customize the scripts according to your preferences or additional functionalities you may need.
