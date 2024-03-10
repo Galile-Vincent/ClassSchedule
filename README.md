@@ -23,7 +23,7 @@ Once you have Scriptable installed, follow these steps to import the scripts:
 
 After importing the scripts, you can set up your class schedule:
 
-1. Open the `Weekly.js` file in Scriptable.
+1. Open the [`Weekly.js`](https://github.com/Galile-Vincent/ClassSchedule/blob/main/Weekly.js) file in Scriptable.
 2. Update the schedule information according to your classes and timings.
 3. Save the changes.
 
